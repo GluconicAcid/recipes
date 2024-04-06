@@ -1,0 +1,19 @@
+.heading {
+    text-align: center;
+    background-color: blanchedalmond;
+    margin: 20px 50px 20px;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    margin: 20px 50px 20px;
+}
+
+.body {
+    margin: 20px 50px 20px;
+}
+
+.header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
